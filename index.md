@@ -13,7 +13,7 @@ For this project, we were tasked with redesigning a website of a local Worcester
 <h3 align="center">Design For Understanding</h3>
 <p align="center">
  
-  <img src="/Project2.png">
+  <img src="https://github.com/Nicolas-Pingal/Nicolas-Pingal-Design-Portfolio/blob/master/Project2.png">
   
 For this project, we were tasked with producing a visualization for a data set of our choosing. We chose to present data on the nutritional content of food, and decided to focus more on presenting it in a compelling manner, rather than presenting it as clearly as possible.  <a href="https://medium.com/@nicolas.pingal/design-for-understanding-presenting-food-data-c776ab06617f">More...</a>
 </p>
