@@ -21,7 +21,7 @@ For this project, we were tasked with producing a visualization for a data set o
 <h3 align="center">Design For Tension</h3>
 <p align="center">
  
-  <img src="https://github.com/Nicolas-Pingal/Nicolas-Pingal-Design-Portfolio/blob/master/Project3.png">
+  <img src="https://github.com/Nicolas-Pingal/Nicolas-Pingal-Design-Portfolio/blob/master/Project3.jpeg">
   
 For this project, we were tasked with developing a chat bot to address a tense issue. Our group designed a bot with the intent to assuage peoples' concerns about the growing prevalence of artificial intelligence. <a href="https://medium.com/@nicolas.pingal/design-for-understanding-presenting-food-data-c776ab06617f">More...</a>
 </p>
