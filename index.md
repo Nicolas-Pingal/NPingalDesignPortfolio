@@ -23,5 +23,5 @@ For this project, we were tasked with producing a visualization for a data set o
  
   <img src="https://github.com/Nicolas-Pingal/Nicolas-Pingal-Design-Portfolio/blob/master/Project3.jpeg">
   
-For this project, we were tasked with developing a chat bot to address a tense issue. Our group designed a bot with the intent to assuage peoples' concerns about the growing prevalence of artificial intelligence. <a href="https://medium.com/@nicolas.pingal/design-for-understanding-presenting-food-data-c776ab06617f">More...</a>
+For this project, we were tasked with developing a chat bot to address a tense issue. Our group designed a bot with the intent to assuage peoples' concerns about the growing prevalence of artificial intelligence. <a href="https://medium.com/@nicolas.pingal/designing-for-tension-discussing-ai-d93740db9e79">More...</a>
 </p>
