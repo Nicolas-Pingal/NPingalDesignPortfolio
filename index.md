@@ -6,8 +6,7 @@ I'm a third-year student at Worcester Polytechnic Institute, studying Computer S
 <p align="center">
  
   <img src="/Project1.png">
-
-  For this project, we were tasked with redesigning a website of a local Worcester organization to better meet the needs of a specific demographic. [More...](https://medium.com/@nicolas.pingal/designing-for-others-technocopia-for-high-school-students-174b71d7971f)
+For this project, we were tasked with redesigning a website of a local Worcester organization to better meet the needs of a specific demographic. [More...](https://medium.com/@nicolas.pingal/designing-for-others-technocopia-for-high-school-students-174b71d7971f)
 </p>
 
 
