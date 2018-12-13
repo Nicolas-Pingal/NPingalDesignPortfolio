@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Nicolas Pingal: Design Portfolio
 
 You can use the [editor on GitHub](https://github.com/Nicolas-Pingal/NPingalDesignPortfolio/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
