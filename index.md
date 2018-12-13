@@ -13,7 +13,7 @@ For this project, we were tasked with redesigning a website of a local Worcester
 <h3 align="center">Design For Understanding</h3>
 <p align="center">
  
-  <img src="/Project2.png"><img src="/Project22.png">
+  <img src="/Project2.png">
   
 For this project, we were tasked with redesigning a website of a local Worcester organization to better meet the needs of a specific demographic. <a href="https://medium.com/@nicolas.pingal/designing-for-others-technocopia-for-high-school-students-174b71d7971f">More...</a>
 </p>
