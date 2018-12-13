@@ -5,7 +5,7 @@ I'm a third-year student at Worcester Polytechnic Institute, studying Computer S
 <h3 align="center">Design For Others</h3>
 <p align="center">
  
-  <img src="/Project1.png">
+  <img src="https://github.com/Nicolas-Pingal/Nicolas-Pingal-Design-Portfolio/blob/master/Project1.png">
   
 For this project, we were tasked with redesigning a website of a local Worcester organization to better meet the needs of a specific demographic. <a href="https://medium.com/@nicolas.pingal/designing-for-others-technocopia-for-high-school-students-174b71d7971f">More...</a>
 </p>
