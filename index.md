@@ -27,7 +27,7 @@ For this project, we were tasked with developing a chat bot to address a tense i
 <h3 align="center">Design For Wellbeing</h3>
 <p align="center">
  
-  <img align="center" src="/Project4.png">
+  <img align="center" src="/Project4.PNG">
   
 For this project, our group was tasked with using an emotion sensing library to create something designed to promote wellbeing. We designed a music-recommendation bot that recommended music designed to make users feel better. <a href="https://medium.com/@nicolas.pingal/design-for-wellbeing-mood-sensing-music-recommendations-1ccdfcd7a188">More...</a>
 </p>
