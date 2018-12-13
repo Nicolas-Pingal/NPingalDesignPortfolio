@@ -15,5 +15,5 @@ For this project, we were tasked with redesigning a website of a local Worcester
  
   <img src="/Project2.png">
   
-For this project, we were tasked with redesigning a website of a local Worcester organization to better meet the needs of a specific demographic. <a href="https://medium.com/@nicolas.pingal/designing-for-others-technocopia-for-high-school-students-174b71d7971f">More...</a>
+For this project, we were tasked with producing a visualization for a data set of our choosing. We chose to present data on the nutritional content of food, and decided to focus more on presenting it in a compelling manner, rather than presenting it as clearly as possible.  <a href="https://medium.com/@nicolas.pingal/design-for-understanding-presenting-food-data-c776ab06617f">More...</a>
 </p>
