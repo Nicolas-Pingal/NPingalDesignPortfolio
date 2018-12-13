@@ -12,14 +12,14 @@ For this project, we were tasked with redesigning a website of a local Worcester
 <p align="center">
  
   <img align="center" src="https://cdn-images-1.medium.com/max/800/1*9BQu846C_Si6GO84prY-ag.png">
-  
+  <br/>
 For this project, we were tasked with producing a visualization for a data set of our choosing. We chose to present data on the nutritional content of food, and decided to focus more on presenting it in a compelling manner, rather than presenting it as clearly as possible.  <a href="https://medium.com/@nicolas.pingal/design-for-understanding-presenting-food-data-c776ab06617f">More...</a>
 </p>
 
 <h3 align="center">Design For Tension</h3>
 <p align="center">
  
-  <img src="https://github.com/Nicolas-Pingal/Nicolas-Pingal-Design-Portfolio/blob/master/Project3.jpeg">
+  <img align="center" src="https://cdn-images-1.medium.com/max/800/1*fbl6iGaARAbSK24QhHr56Q.jpeg">
   
 For this project, we were tasked with developing a chat bot to address a tense issue. Our group designed a bot with the intent to assuage peoples' concerns about the growing prevalence of artificial intelligence. <a href="https://medium.com/@nicolas.pingal/designing-for-tension-discussing-ai-d93740db9e79">More...</a>
 </p>
